@@ -73,3 +73,12 @@ The changes:
       * Both Eidilon has new names
    * Eidilon 6 "Shattering Shambles"
       * Additional Quantum DMG: 18% >> 15% Seele's Ultimate DMG
+* Gepard
+    * Skill "Intimidating Strike" >> "Daunting Strike" lv 10
+        * DMG taken by enemy while Frozen: Ice DoT equal to 50% of Gepard's ATK
+          \>> Additional Ice DMG equal to 60% of Gepard's ATK at the beginning
+          of each turn
+    * Ultimate "Enduring Bulwark" lv 10
+        * Absorbing DMG equal to 60% >> 40% of Geopard's DEF plus 240 >> 600
+    * Technique "Comradery"
+        * Absorbing DMG equal to 24% of Geopard's DEF plus 96 >> 150
