@@ -82,3 +82,7 @@ The changes:
         * Absorbing DMG equal to 60% >> 40% of Geopard's DEF plus 240 >> 600
     * Technique "Comradery"
         * Absorbing DMG equal to 24% of Geopard's DEF plus 96 >> 150
+* Clara
+    * HP at lv 80: 1319 >> 1241
+    * Talent "Because We're Family"
+        * DMG taken reduction: 15% >> 10%
