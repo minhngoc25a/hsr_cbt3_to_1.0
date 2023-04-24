@@ -16,7 +16,7 @@ The changes:
       * Add a new line like Himeko's "Incomplete Combustion" (probably to [prevent Himeko's and Welt's dimension effect happen at the same time](https://twitter.com/KimalKim1/status/1649987643898462208?s=20))
    * Trace "Retribution"
       * Before: Ultimate DMG buff by 25% permanently
-      * After: Ultimate DMG buff by 12% for 2 turns
+      * After: Buff the DMG received by targets by 12% for 2 turns
    * Eidolon 4 "Appellation of Justice"
       * Before: When using Ultimate, 100% base chance to buff the DMG received by the target by 12% for 2 turns.
       * After: Base chance for Skill to inflict SPD Reduction increases by 35%. (completely reworked)
@@ -86,3 +86,11 @@ The changes:
     * HP at lv 80: 1319 >> 1241
     * Talent "Because We're Family"
         * DMG taken reduction: 15% >> 10%
+* Luocha
+    * Base HP/ATK/DEF: 1125/460/640 >> 1280 / 698 / 436
+    * Skill "Prayer of Abyss Flower" 
+        * Restored HP of a single ally after using his skill: 80% + 320 >> 60% +
+          800
+    * Talent "Cycle of Life" lv 10
+        * Number of Abyss Flower stacks required: 3 >> 2
+        * HP restored to ally: 25% >> 21% of Luocha's ATK plus 100 >> 280
