@@ -108,4 +108,17 @@ The changes:
         * Targets: Targets' HP >= 40% Yanqing's Max HP >> Enemies with HP >= 50%
     * Eidinon names changed, 1st, 2nd and 4th Eidilon effects changed (see
       [image](https://i.ibb.co/XzhFyFH/imgonline-com-ua-twotoone-W3-Layhfzi-Hq-FR.jpg))
-    
+* Bailu
+    * Skill "Singing Among Clouds" lv 10
+        * Single ally heal amount: 16% Bailu's Max HP + 128 >> 11.7% + 312
+        * Heals a single ally 2 more time(s) >> Heals random allies 2 time(s)
+    * Ultimate "Leap of Marsh Drakon" lv 10
+        * Amount healed to allies: 18% Bailu's Max HP + 144 >> 13.5% + 360
+    * Talent "Gourdful of Elixir" lv 10
+        * Amount healed to ally when ally is hit: 10% Bailu's Max HP + 100 >>
+          5.4% + 144
+        * Amount healed to ally when ally dies: 30% Bailu's Max HP + 240 >> 18%
+          \+ 480
+    * Talent "Saunter in the Rain"
+        * \# of turns allies are invigorated: 1 >> 2
+        
