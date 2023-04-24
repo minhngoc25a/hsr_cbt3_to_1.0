@@ -94,3 +94,10 @@ The changes:
     * Talent "Cycle of Life" lv 10
         * Number of Abyss Flower stacks required: 3 >> 2
         * HP restored to ally: 25% >> 21% of Luocha's ATK plus 100 >> 280
+* Jing Yuan
+    * Technique "Command Talisman"
+        * Attack count in the first turn increases by (2 >> 3) at the start of
+          the next battle
+    * Trace "Battalia Crush"
+        * CRIT DMG increase: 20% >> 25%
+    * Most of the nodes were adjusted (see [image](https://i.ibb.co/K5nHRhz/imgonline-com-ua-twotoone-l-DN6-Kt3fd-K7v-Vk-So.jpg))
