@@ -100,4 +100,12 @@ The changes:
           the next battle
     * Trace "Battalia Crush"
         * CRIT DMG increase: 20% >> 25%
-    * Most of the nodes were adjusted (see [image](https://i.ibb.co/K5nHRhz/imgonline-com-ua-twotoone-l-DN6-Kt3fd-K7v-Vk-So.jpg))
+    * Most of the nodes were adjusted (see
+      [image](https://i.ibb.co/K5nHRhz/imgonline-com-ua-twotoone-l-DN6-Kt3fd-K7v-Vk-So.jpg))
+* Yanqing
+    * Technique "Master Fencer"
+        * \# of turns DMG buff takes effect: 3 >> 2
+        * Targets: Targets' HP >= 40% Yanqing's Max HP >> Enemies with HP >= 50%
+    * Eidinon names changed, 1st, 2nd and 4th Eidilon effects changed (see
+      [image](https://i.ibb.co/XzhFyFH/imgonline-com-ua-twotoone-W3-Layhfzi-Hq-FR.jpg))
+    
